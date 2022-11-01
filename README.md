@@ -8,6 +8,28 @@ Drug-food interactions (DFIs) occur when some constituents of food affect the bi
 
 We provide two processed datasets: drugbank-DFI and pubmed-DFI. See more in `data`
 
+## DFinder parameters：
+```bash
+--bpr_batch          # int, the batch size for bpr loss training procedure.
+--recdim             # int, the embedding size of GCN part.
+--layer              # int, the layer num of GCN part.
+--lr                 # float, the learning rate.
+--decay              # float, the weight decay for l2 normalizaton. 
+--dropout            # int, using the dropout or not.
+--keepprob           # float, the batch size for bpr loss training procedure.
+--a_fold             # int, the fold num used to split large adj matrix.
+--testbatch          # int, the batch size of users for testing.
+--dataset            # string, available datasets: [drugbank-DFI, pubmed-DFI].
+--path               # string, path to save weights.
+--topks              # @k test list
+--tensorboard        # int, enable tensorboard.
+--comment            # str
+--epochs             # int
+--multicore          # int, whether we use multiprocessing or not in test
+--pretrain           # int, whether we use pretrained weight or not
+--seed               # int, random seed
+--model              # string, rec-model, support [mf, lgn]
+```
 ## An example to run DFinder
 
 run DFinder on **drugbank-DFI** dataset:
