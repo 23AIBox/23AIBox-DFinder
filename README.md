@@ -6,8 +6,7 @@ Drug-food interactions (DFIs) occur when some constituents of food affect the bi
 
 ## Dataset
 
-We provide two processed datasets: drugbank-DFI and pubmed-DFI. 
-See more in `data`
+We provide two processed datasets: drugbank-DFI and pubmed-DFI. See more in `data`
 
 ## An example to run DFinder
 
@@ -23,8 +22,9 @@ Change `ROOT_PATH` in `code/world.py`
 
 *NOTE*:
 
-*[ ]If you want to run pubmed-DFI dataset, you need to change the data storage directories in `code/model.py` and `code/dataloader.py`.
-*[ ]If you want to run lightGCN on your own dataset, you should go to dataloader.py, and implement a dataloader inherited from BasicDataset. Then register it in register.py.
+* If you want to run pubmed-DFI dataset, you need to change the data storage directories in `code/model.py` and `code/dataloader.py`.
+* If you want to run DFinder on your own dataset, you should go to dataloader.py, and implement a dataloader inherited from BasicDataset. Then register it in register.py.
+* If you want to run your own models on the datasets we offer, you should go to model.py, and implement a model inherited from BasicModel. Then register it in register.py.
 
 ## Acknowledgments
 We really thank Xiangnan He et al. open the source code of LightGCN at this [link](https://github.com/gusye1234/LightGCN-PyTorch). The LightGCN helps us to extract the topological structure features on the DFI network.
