@@ -1,0 +1,451 @@
+,Drug,Food Constituent,DDI2013,POMELO,FIDEO
+1,zalcitabine,magnesium,DDI2013,NA,NA
+2,zalcitabine,aluminum,DDI2013,NA,NA
+3,grepafloxacin,theobromine,DDI2013,NA,NA
+4,norfloxacin,iron,DDI2013,NA,NA
+5,ciprofloxacin,aluminum,DDI2013,NA,NA
+6,ciprofloxacin,magnesium,DDI2013,NA,NA
+7,phenelzine,tetradecanoic acid,NA,pomelo,fideo
+8,cyclosporine,sodium,NA,pomelo,fideo
+9,levothyroxine,d-glucose,NA,pomelo,fideo
+10,clozapine,arginine,NA,pomelo,NA
+11,clozapine,d-fructose,NA,pomelo,NA
+12,clozapine,oleic acid,NA,pomelo,NA
+13,clozapine,l-ascorbic acid,NA,pomelo,NA
+14,clozapine,l-serine,NA,pomelo,NA
+15,clozapine,l-proline,NA,pomelo,NA
+16,clozapine,(s)-naringenin,NA,pomelo,NA
+17,clozapine,epsilon-polylysine,NA,pomelo,NA
+18,clozapine,d-glucose,NA,pomelo,NA
+19,clozapine,(e)-2-phenyl-2-butenal,NA,pomelo,NA
+20,clozapine,hexadecanoic acid,NA,pomelo,NA
+21,clozapine,l-leucine,NA,pomelo,NA
+22,clozapine,d-aspartic acid,NA,pomelo,NA
+23,fluvoxamine,d-aspartic acid,NA,pomelo,fideo
+24,warfarin,l-lysine,NA,pomelo,fideo
+25,warfarin,retinol,NA,pomelo,fideo
+26,warfarin,citric acid,NA,pomelo,NA
+27,warfarin,d-glucose,NA,pomelo,fideo
+28,warfarin,l-isoleucine,NA,pomelo,fideo
+29,warfarin,l-tyrosine,NA,pomelo,fideo
+30,warfarin,potassium,NA,pomelo,fideo
+31,warfarin,sulfur,NA,pomelo,fideo
+32,warfarin,glycine,NA,pomelo,fideo
+33,warfarin,d-fructose,NA,pomelo,fideo
+34,warfarin,calcium,NA,pomelo,fideo
+35,fexofenadine,l-lysine,NA,pomelo,NA
+36,fexofenadine,d-glucose,NA,pomelo,fideo
+37,fexofenadine,potassium,NA,pomelo,fideo
+38,fexofenadine,oxalic acid,NA,pomelo,NA
+39,ciprofloxacin,d-glucose,NA,pomelo,fideo
+40,ciprofloxacin,glutamic acid,NA,pomelo,fideo
+41,ciprofloxacin,l-isoleucine,NA,pomelo,fideo
+42,ciprofloxacin,l-threonine,NA,pomelo,fideo
+43,amprenavir,ethanol,NA,NA,fideo
+44,zinc,lactose,NA,NA,fideo
+45,zinc,alpha-lactose,NA,NA,fideo
+46,zinc,potassium,NA,NA,fideo
+47,zinc,l-isoleucine,NA,NA,fideo
+48,zinc,arginine,NA,NA,fideo
+49,zinc,chlorine,NA,NA,fideo
+50,zinc,d-aspartic acid,NA,NA,fideo
+51,zinc,octadecanoic acid,NA,NA,fideo
+52,zinc,l-threonine,NA,NA,fideo
+53,zinc,l-lysine,NA,NA,fideo
+54,zinc,phosphate,NA,NA,fideo
+55,zinc,glutamic acid,NA,NA,fideo
+56,zinc,sulfide,NA,NA,fideo
+57,zinc,hexadecanoic acid,NA,NA,fideo
+58,zinc,proline,NA,NA,fideo
+59,demeclocycline,glutamic acid,NA,NA,fideo
+60,demeclocycline,proline,NA,NA,fideo
+61,demeclocycline,l-isoleucine,NA,NA,fideo
+62,demeclocycline,sulfide,NA,NA,fideo
+63,demeclocycline,hexadecanoic acid,NA,NA,fideo
+64,demeclocycline,l-lysine,NA,NA,fideo
+65,demeclocycline,potassium,NA,NA,fideo
+66,demeclocycline,lactose,NA,NA,fideo
+67,lithium citrate,sodium,NA,NA,fideo
+68,lithium citrate,ethanol,NA,NA,fideo
+69,lithium citrate,calcium,NA,NA,fideo
+70,lithium citrate,magnesium,NA,NA,fideo
+71,lithium citrate,iodine,NA,NA,fideo
+72,dextroamphetamine,iron,NA,NA,fideo
+73,triflusal,zingiberol,NA,NA,fideo
+74,triflusal,citronellol,NA,NA,fideo
+75,triflusal,ursolic acid,NA,NA,fideo
+76,triflusal,"(z,z)-9,12-octadecadienoic acid",NA,NA,fideo
+77,triflusal,neral,NA,NA,fideo
+78,triflusal,alpha-curcumene,NA,NA,fideo
+79,triflusal,(e)-2-phenyl-2-butenal,NA,NA,fideo
+80,triflusal,arginine,NA,NA,fideo
+81,triflusal,delphinidin 3-glucoside,NA,NA,fideo
+82,triflusal,l-isoleucine,NA,NA,fideo
+83,triflusal,l-proline,NA,NA,fideo
+84,fosinopril,manganese,NA,NA,fideo
+85,fosinopril,magnesium,NA,NA,fideo
+86,fosinopril,nicotinic acid,NA,NA,fideo
+87,fosinopril,d-glucose,NA,NA,fideo
+88,fosinopril,lactose,NA,NA,fideo
+89,fosinopril,1-18:3-2-18:3-phosphatidylcholine,NA,NA,fideo
+90,fosinopril,nitrogen,NA,NA,fideo
+91,fosinopril,cdp-dg(16:0/16:0),NA,NA,fideo
+92,fosinopril,zinc,NA,NA,fideo
+93,fosinopril,copper,NA,NA,fideo
+94,fosinopril,iodine,NA,NA,fideo
+95,fosinopril,1-18:2-2-18:2-sn-glycerol-3-phosphocholine,NA,NA,fideo
+96,fosinopril,iron,NA,NA,fideo
+97,fosinopril,(r)-oxypeucedanin,NA,NA,fideo
+98,fosinopril,1-palmitoyl-2-linoleoyl-phosphatidylcholine,NA,NA,fideo
+99,fosinopril,d-fructose,NA,NA,fideo
+100,fosinopril,calcium,NA,NA,fideo
+101,fosinopril,l-tryptophan,NA,NA,fideo
+102,fosinopril,1-palmitoylglycerol 3-phosphate,NA,NA,fideo
+103,valproic acid,glutamic acid,NA,NA,fideo
+104,valproic acid,d-glucose,NA,NA,fideo
+105,valproic acid,ethanol,NA,NA,fideo
+106,valproic acid,l-isoleucine,NA,NA,fideo
+107,potassium bicarbonate,iron,NA,NA,fideo
+108,potassium bicarbonate,manganese,NA,NA,fideo
+109,lithium carbonate,ethanol,NA,NA,fideo
+110,phenelzine,l-lactic acid,NA,NA,fideo
+111,phenelzine,ethanol,NA,NA,fideo
+112,phenelzine,alpha-carotene,NA,NA,fideo
+113,phenelzine,cdp-dg(16:0/18:1(9z)),NA,NA,fideo
+114,phenelzine,retinol,NA,NA,fideo
+115,phenelzine,succinic acid,NA,NA,fideo
+116,phenelzine,l-isoleucine,NA,NA,fideo
+117,phenelzine,maltotriose,NA,NA,fideo
+118,phenelzine,lactic acid,NA,NA,fideo
+119,phenelzine,calcium,NA,NA,fideo
+120,phenelzine,uridine,NA,NA,fideo
+121,amitriptyline,"1,8-cineole",NA,NA,fideo
+122,amitriptyline,ethanol,NA,NA,fideo
+123,amitriptyline,d-glucose,NA,NA,fideo
+124,methotrexate,l-isoleucine,NA,NA,fideo
+125,methotrexate,1-18:2-2-18:3-phosphatidylcholine,NA,NA,fideo
+126,methotrexate,cdp-dg(16:0/16:0),NA,NA,fideo
+127,methotrexate,l-threonine,NA,NA,fideo
+128,methotrexate,l-lysine,NA,NA,fideo
+129,methotrexate,(e)-2-phenyl-2-butenal,NA,NA,fideo
+130,methotrexate,1-palmitoyl-2-linoleoyl-phosphatidylcholine,NA,NA,fideo
+131,zinc sulfate,phosphocreatinine,NA,NA,fideo
+132,zinc sulfate,glutamic acid,NA,NA,fideo
+133,zinc sulfate,l-isoleucine,NA,NA,fideo
+134,zinc sulfate,arginine,NA,NA,fideo
+135,digoxin,1-18:1-2-18:3-phosphatidylcholine,NA,NA,fideo
+136,cyclosporine,l-isoleucine,NA,NA,fideo
+137,cyclosporine,d-glucose,NA,NA,fideo
+138,cyclosporine,retinol,NA,NA,fideo
+139,cyclosporine,arginine,NA,NA,fideo
+140,cyclosporine,ethanol,NA,NA,fideo
+141,cyclosporine,"1,8-cineole",NA,NA,fideo
+142,cyclosporine,raffinose,NA,NA,fideo
+143,cyclosporine,mannan,NA,NA,fideo
+144,cyclosporine,nicotinic acid,NA,NA,fideo
+145,cyclosporine,beta-carotene,NA,NA,fideo
+146,cyclosporine,lactose,NA,NA,fideo
+147,cyclosporine,(e)-2-phenyl-2-butenal,NA,NA,fideo
+148,cyclosporine,hexadecanoic acid,NA,NA,fideo
+149,cyclosporine,alpha-curcumene,NA,NA,fideo
+150,cyclosporine,cholesterol,NA,NA,fideo
+151,cyclosporine,beta-lactose,NA,NA,fideo
+152,cyclosporine,potassium,NA,NA,fideo
+153,zinc oxide,alpha-lactose,NA,NA,fideo
+154,zinc oxide,lactose,NA,NA,fideo
+155,zinc oxide,l-lysine,NA,NA,fideo
+156,zinc oxide,phosphorus,NA,NA,fideo
+157,zinc oxide,arginine,NA,NA,fideo
+158,zinc oxide,l-isoleucine,NA,NA,fideo
+159,zinc oxide,glutamic acid,NA,NA,fideo
+160,zinc oxide,chlorine,NA,NA,fideo
+161,acenocoumarol,neral,NA,NA,fideo
+162,acenocoumarol,l-isoleucine,NA,NA,fideo
+163,acenocoumarol,retinol,NA,NA,fideo
+164,acenocoumarol,alpha-curcumene,NA,NA,fideo
+165,acenocoumarol,zingiberol,NA,NA,fideo
+166,acenocoumarol,cyanidin,NA,NA,fideo
+167,acenocoumarol,l-lysine,NA,NA,fideo
+168,acenocoumarol,l-methionine,NA,NA,fideo
+169,acenocoumarol,zingiberene,NA,NA,fideo
+170,itraconazole,l-ascorbic acid,NA,NA,fideo
+171,itraconazole,"1,8-cineole",NA,NA,fideo
+172,famotidine,ethanol,NA,NA,fideo
+173,procarbazine,ethanol,NA,NA,fideo
+174,procarbazine,retinol,NA,NA,fideo
+175,procarbazine,octadecanoic acid,NA,NA,fideo
+176,procarbazine,folic acid,NA,NA,fideo
+177,procarbazine,alpha-carotene,NA,NA,fideo
+178,procarbazine,alpha-linoleic acid,NA,NA,fideo
+179,procarbazine,l-serine,NA,NA,fideo
+180,ferrous gluconate,phosphocreatinine,NA,NA,fideo
+181,ferrous gluconate,l-isoleucine,NA,NA,fideo
+182,ferrous gluconate,glutamic acid,NA,NA,fideo
+183,ferrous gluconate,l-lysine,NA,NA,fideo
+184,ferrous gluconate,potassium,NA,NA,fideo
+185,ferrous gluconate,6'-sialyllactose,NA,NA,fideo
+186,ferrous gluconate,hexadecanoic acid,NA,NA,fideo
+187,ferrous gluconate,lactose,NA,NA,fideo
+188,ferrous gluconate,l-leucine,NA,NA,fideo
+189,ferrous gluconate,l-serine,NA,NA,fideo
+190,ferrous gluconate,alpha-lactose,NA,NA,fideo
+191,ferrous gluconate,l-threonine,NA,NA,fideo
+192,ferrous gluconate,chlorine,NA,NA,fideo
+193,ferrous gluconate,sulfide,NA,NA,fideo
+194,ferrous gluconate,phosphorus,NA,NA,fideo
+195,pargyline,oleic acid,NA,NA,fideo
+196,pargyline,genistin,NA,NA,fideo
+197,pargyline,alpha-carotene,NA,NA,fideo
+198,pargyline,gallic acid,NA,NA,fideo
+199,pargyline,sucrose,NA,NA,fideo
+200,pargyline,phosphorus,NA,NA,fideo
+201,pargyline,daidzin,NA,NA,fideo
+202,pargyline,beta-carotene,NA,NA,fideo
+203,pargyline,d-glucose,NA,NA,fideo
+204,captopril,iron,NA,NA,fideo
+205,captopril,cdp-dg(16:0/16:0),NA,NA,fideo
+206,captopril,nicotinic acid,NA,NA,fideo
+207,captopril,sodium,NA,NA,fideo
+208,captopril,d-glucose,NA,NA,fideo
+209,captopril,potassium,NA,NA,fideo
+210,captopril,chromium,NA,NA,fideo
+211,captopril,1-palmitoyl-2-linoleoyl-phosphatidylcholine,NA,NA,fideo
+212,captopril,manganese,NA,NA,fideo
+213,captopril,maltose,NA,NA,fideo
+214,captopril,cdp-dg(16:0/18:1(9z)),NA,NA,fideo
+215,captopril,d-fructose,NA,NA,fideo
+216,captopril,iodine,NA,NA,fideo
+217,captopril,cdp-dg(16:0/18:0),NA,NA,fideo
+218,captopril,cdp-dg(16:0/18:1(11z)),NA,NA,fideo
+219,captopril,magnesium,NA,NA,fideo
+220,captopril,1-18:2-2-18:2-sn-glycerol-3-phosphocholine,NA,NA,fideo
+221,captopril,1-18:1-2-18:3-phosphatidylcholine,NA,NA,fideo
+222,captopril,lactose,NA,NA,fideo
+223,captopril,1-palmitoylglycerol 3-phosphate,NA,NA,fideo
+224,captopril,1-18:2-2-18:3-phosphatidylcholine,NA,NA,fideo
+225,captopril,calcium,NA,NA,fideo
+226,captopril,1-18:3-2-18:3-phosphatidylcholine,NA,NA,fideo
+227,captopril,1-18:1-2-18:2-phosphatidylcholine,NA,NA,fideo
+228,rivaroxaban,zingiberol,NA,NA,fideo
+229,rivaroxaban,l-isoleucine,NA,NA,fideo
+230,rivaroxaban,arginine,NA,NA,fideo
+231,moexipril,d-glucose,NA,NA,fideo
+232,moexipril,cdp-dg(16:0/18:1(9z)),NA,NA,fideo
+233,moexipril,sodium,NA,NA,fideo
+234,moexipril,iron,NA,NA,fideo
+235,moexipril,nicotinic acid,NA,NA,fideo
+236,moexipril,1-palmitoyl-2-linoleoyl-phosphatidylcholine,NA,NA,fideo
+237,moexipril,cdp-dg(16:0/18:1(11z)),NA,NA,fideo
+238,moexipril,copper,NA,NA,fideo
+239,moexipril,cdp-dg(16:0/18:0),NA,NA,fideo
+240,moexipril,1-18:1-2-18:2-phosphatidylcholine,NA,NA,fideo
+241,moexipril,calcium,NA,NA,fideo
+242,moexipril,lactose,NA,NA,fideo
+243,moexipril,d-fructose,NA,NA,fideo
+244,moexipril,l-tryptophan,NA,NA,fideo
+245,moexipril,zinc,NA,NA,fideo
+246,moexipril,(r)-oxypeucedanin,NA,NA,fideo
+247,moexipril,potassium,NA,NA,fideo
+248,moexipril,magnesium,NA,NA,fideo
+249,moexipril,nitrogen,NA,NA,fideo
+250,moexipril,maltose,NA,NA,fideo
+251,moexipril,1-18:3-2-18:3-phosphatidylcholine,NA,NA,fideo
+252,moexipril,manganese,NA,NA,fideo
+253,moexipril,1-palmitoylglycerol 3-phosphate,NA,NA,fideo
+254,progesterone,ethanol,NA,NA,fideo
+255,levothyroxine,alpha-linoleic acid,NA,NA,fideo
+256,levothyroxine,l-isoleucine,NA,NA,fideo
+257,isotretinoin,ethanol,NA,NA,fideo
+258,trioxsalen,iron,NA,NA,fideo
+259,trioxsalen,glutamic acid,NA,NA,fideo
+260,trioxsalen,geranial,NA,NA,fideo
+261,trioxsalen,d-glucose,NA,NA,fideo
+262,trioxsalen,l-tyrosine,NA,NA,fideo
+263,trioxsalen,potassium,NA,NA,fideo
+264,trioxsalen,oxalic acid,NA,NA,fideo
+265,trioxsalen,beta-sitosterol,NA,NA,fideo
+266,trioxsalen,gamma-taraxasterol,NA,NA,fideo
+267,isocarboxazid,d-glucose,NA,NA,fideo
+268,isocarboxazid,genistin,NA,NA,fideo
+269,isocarboxazid,beta-carotene,NA,NA,fideo
+270,isocarboxazid,d-aspartic acid,NA,NA,fideo
+271,isocarboxazid,ethanol,NA,NA,fideo
+272,isocarboxazid,epsilon-polylysine,NA,NA,fideo
+273,isocarboxazid,gallic acid,NA,NA,fideo
+274,isocarboxazid,daidzin,NA,NA,fideo
+275,isocarboxazid,(r)-oxypeucedanin,NA,NA,fideo
+276,isocarboxazid,phosphorus,NA,NA,fideo
+277,ferrous fumarate,lactose,NA,NA,fideo
+278,ferrous fumarate,l-lysine,NA,NA,fideo
+279,ferrous fumarate,l-isoleucine,NA,NA,fideo
+280,ferrous fumarate,arginine,NA,NA,fideo
+281,ferrous fumarate,l-threonine,NA,NA,fideo
+282,spirapril,sodium,NA,NA,fideo
+283,spirapril,iron,NA,NA,fideo
+284,spirapril,cdp-dg(16:0/16:0),NA,NA,fideo
+285,spirapril,1-palmitoyl-2-linoleoyl-phosphatidylcholine,NA,NA,fideo
+286,nitrazepam,ethanol,NA,NA,fideo
+287,pemoline,ethanol,NA,NA,fideo
+288,argatroban,d-glucose,NA,NA,fideo
+289,argatroban,citronellol,NA,NA,fideo
+290,argatroban,zingiberol,NA,NA,fideo
+291,argatroban,l-isoleucine,NA,NA,fideo
+292,aminophylline,ethanol,NA,NA,fideo
+293,aminophylline,d-glucose,NA,NA,fideo
+294,aminophylline,(e)-2-phenyl-2-butenal,NA,NA,fideo
+295,fluvoxamine,ethanol,NA,NA,fideo
+296,fluvoxamine,nicotinic acid,NA,NA,fideo
+297,triamterene,potassium,NA,NA,fideo
+298,enalapril,lactose,NA,NA,fideo
+299,enalapril,1-palmitoyl-2-linoleoyl-phosphatidylcholine,NA,NA,fideo
+300,enalapril,cdp-dg(16:0/16:0),NA,NA,fideo
+301,enalapril,cdp-dg(16:0/18:1(9z)),NA,NA,fideo
+302,ketazolam,oleic acid,NA,NA,fideo
+303,ketazolam,ethanol,NA,NA,fideo
+304,ketazolam,l-serine,NA,NA,fideo
+305,sodium fluoride,lactose,NA,NA,fideo
+306,sodium fluoride,l-isoleucine,NA,NA,fideo
+307,sodium fluoride,l-lysine,NA,NA,fideo
+308,sodium fluoride,hexadecanoic acid,NA,NA,fideo
+309,quinapril,lactose,NA,NA,fideo
+310,quinapril,1-18:1-2-18:3-phosphatidylcholine,NA,NA,fideo
+311,quinapril,cdp-dg(16:0/18:0),NA,NA,fideo
+312,quinapril,cdp-dg(16:0/16:0),NA,NA,fideo
+313,quinapril,iron,NA,NA,fideo
+314,flunitrazepam,ethanol,NA,NA,fideo
+315,flunitrazepam,d-glucose,NA,NA,fideo
+316,estramustine,glutamic acid,NA,NA,fideo
+317,spironolactone,ethanol,NA,NA,fideo
+318,safinamide,ethanol,NA,NA,fideo
+319,safinamide,d-aspartic acid,NA,NA,fideo
+320,safinamide,l-threonine,NA,NA,fideo
+321,pemigatinib,(e)-2-phenyl-2-butenal,NA,NA,fideo
+322,pemigatinib,arginine,NA,NA,fideo
+323,pemigatinib,d-glucose,NA,NA,fideo
+324,isoniazid,ethanol,NA,NA,fideo
+325,isoniazid,lactose,NA,NA,fideo
+326,isoniazid,d-glucose,NA,NA,fideo
+327,tranylcypromine,l-isoleucine,NA,NA,fideo
+328,tranylcypromine,l-lactic acid,NA,NA,fideo
+329,tranylcypromine,sodium,NA,NA,fideo
+330,tranylcypromine,d-glucose,NA,NA,fideo
+331,tranylcypromine,succinic acid,NA,NA,fideo
+332,bortezomib,d-glucose,NA,NA,fideo
+333,bortezomib,l-threonine,NA,NA,fideo
+334,amiloride,lactose,NA,NA,fideo
+335,amiloride,nicotinic acid,NA,NA,fideo
+336,fosamprenavir,ethanol,NA,NA,fideo
+337,fosamprenavir,alpha-curcumene,NA,NA,fideo
+338,fosamprenavir,lactose,NA,NA,fideo
+339,triethylenetetramine,iron,NA,NA,fideo
+340,triethylenetetramine,l-lysine,NA,NA,fideo
+341,triethylenetetramine,l-isoleucine,NA,NA,fideo
+342,rasagiline,ethanol,NA,NA,fideo
+343,rasagiline,(e)-2-phenyl-2-butenal,NA,NA,fideo
+344,rasagiline,l-tyrosine,NA,NA,fideo
+345,rasagiline,tetradecanoic acid,NA,NA,fideo
+346,fludrocortisone,iron,NA,NA,fideo
+347,tetracycline,glutamic acid,NA,NA,fideo
+348,cimetidine,d-glucose,NA,NA,fideo
+349,cimetidine,maltose,NA,NA,fideo
+350,cimetidine,nicotinic acid,NA,NA,fideo
+351,cimetidine,beta-lactose,NA,NA,fideo
+352,cimetidine,17alpha-ethynylestradiol,NA,NA,fideo
+353,cimetidine,l-tryptophan,NA,NA,fideo
+354,zinc acetate,lactose,NA,NA,fideo
+355,zinc acetate,glutamic acid,NA,NA,fideo
+356,zinc acetate,l-isoleucine,NA,NA,fideo
+357,zinc acetate,hexadecanoic acid,NA,NA,fideo
+358,zinc acetate,d-aspartic acid,NA,NA,fideo
+359,warfarin,lactose,NA,NA,fideo
+360,warfarin,luteolin,NA,NA,fideo
+361,warfarin,sodium,NA,NA,fideo
+362,warfarin,chlorogenic acid,NA,NA,fideo
+363,warfarin,citronellol,NA,NA,fideo
+364,warfarin,cdp-dg(16:0/18:1(9z)),NA,NA,fideo
+365,warfarin,"1,8-cineole",NA,NA,fideo
+366,warfarin,cdp-dg(16:0/16:0),NA,NA,fideo
+367,warfarin,(-)-quinic acid,NA,NA,fideo
+368,warfarin,cdp-dg(16:0/18:1(11z)),NA,NA,fideo
+369,warfarin,beta-lactose,NA,NA,fideo
+370,warfarin,beta-sesquiphellandrene,NA,NA,fideo
+371,warfarin,"(z,z)-9,12-octadecadienoic acid",NA,NA,fideo
+372,warfarin,nicotinic acid,NA,NA,fideo
+373,bivalirudin,citronellol,NA,NA,fideo
+374,bivalirudin,l-isoleucine,NA,NA,fideo
+375,bivalirudin,d-aspartic acid,NA,NA,fideo
+376,prazepam,hexadecanoic acid,NA,NA,fideo
+377,prazepam,d-glucose,NA,NA,fideo
+378,prazepam,ethanol,NA,NA,fideo
+379,prazepam,l-ascorbic acid,NA,NA,fideo
+380,moclobemide,zingiberene,NA,NA,fideo
+381,moclobemide,ethanol,NA,NA,fideo
+382,moclobemide,sucrose,NA,NA,fideo
+383,moclobemide,l-proline,NA,NA,fideo
+384,moclobemide,beta-d-glucopyranose,NA,NA,fideo
+385,moclobemide,17alpha-ethynylestradiol,NA,NA,fideo
+386,lenvatinib,1-palmitoyl-2-linoleoyl-phosphatidylcholine,NA,NA,fideo
+387,lenvatinib,lactose,NA,NA,fideo
+388,lenvatinib,d-glucose,NA,NA,fideo
+389,lenvatinib,cdp-dg(16:0/16:0),NA,NA,fideo
+390,lenvatinib,cdp-dg(16:0/18:0),NA,NA,fideo
+391,alprazolam,alpha-linoleic acid,NA,NA,fideo
+392,alprazolam,(e)-2-phenyl-2-butenal,NA,NA,fideo
+393,alprazolam,d-glucose,NA,NA,fideo
+394,phenobarbital,nicotinic acid,NA,NA,fideo
+395,phenobarbital,lactose,NA,NA,fideo
+396,phenobarbital,d-glucose,NA,NA,fideo
+397,fexofenadine,cdp-dg(16:0/16:0),NA,NA,fideo
+398,fexofenadine,iron,NA,NA,fideo
+399,fexofenadine,sucrose,NA,NA,fideo
+400,trandolapril,1-palmitoyl-2-linoleoyl-phosphatidylcholine,NA,NA,fideo
+401,trandolapril,iron,NA,NA,fideo
+402,trandolapril,cdp-dg(16:0/18:1(9z)),NA,NA,fideo
+403,trandolapril,d-glucose,NA,NA,fideo
+404,trandolapril,nicotinic acid,NA,NA,fideo
+405,apixaban,d-glucose,NA,NA,fideo
+406,apixaban,mannan,NA,NA,fideo
+407,apixaban,citronellol,NA,NA,fideo
+408,apixaban,l-lysine,NA,NA,fideo
+409,apixaban,l-isoleucine,NA,NA,fideo
+410,apixaban,"1,8-cineole",NA,NA,fideo
+411,apixaban,zingiberol,NA,NA,fideo
+412,lisinopril,cdp-dg(16:0/16:0),NA,NA,fideo
+413,lisinopril,cdp-dg(16:0/18:1(9z)),NA,NA,fideo
+414,lisinopril,d-glucose,NA,NA,fideo
+415,lisinopril,lactose,NA,NA,fideo
+416,lisinopril,iron,NA,NA,fideo
+417,lisinopril,cdp-dg(16:0/18:1(11z)),NA,NA,fideo
+418,lisinopril,potassium,NA,NA,fideo
+419,lisinopril,chromium,NA,NA,fideo
+420,lisinopril,nicotinic acid,NA,NA,fideo
+421,lisinopril,manganese,NA,NA,fideo
+422,lisinopril,d-fructose,NA,NA,fideo
+423,hydrochlorothiazide,lactose,NA,NA,fideo
+424,hydrochlorothiazide,iron,NA,NA,fideo
+425,hydrochlorothiazide,iron,NA,NA,fideo
+426,hydrochlorothiazide,sodium,NA,NA,fideo
+427,hydrochlorothiazide,potassium,NA,NA,fideo
+428,betrixaban,retinol,NA,NA,fideo
+429,betrixaban,d-fructose,NA,NA,fideo
+430,perindopril,lactose,NA,NA,fideo
+431,perindopril,1-palmitoyl-2-linoleoyl-phosphatidylcholine,NA,NA,fideo
+432,perindopril,cdp-dg(16:0/16:0),NA,NA,fideo
+433,perindopril,d-glucose,NA,NA,fideo
+434,perindopril,iron,NA,NA,fideo
+435,perindopril,cdp-dg(16:0/18:1(9z)),NA,NA,fideo
+436,doxycycline,lactose,NA,NA,fideo
+437,doxycycline,ethanol,NA,NA,fideo
+438,doxycycline,maltose,NA,NA,fideo
+439,oxytetracycline,lactose,NA,NA,fideo
+440,oxytetracycline,potassium,NA,NA,fideo
+441,sodium feredetate,lactose,NA,NA,fideo
+442,digitoxin,potassium,NA,NA,fideo
+443,digitoxin,l-lysine,NA,NA,fideo
+444,selegiline,ethanol,NA,NA,fideo
+445,selegiline,alpha-carotene,NA,NA,fideo
+446,zinc gluconate,l-isoleucine,NA,NA,fideo
+447,zinc gluconate,lactose,NA,NA,fideo
+448,zinc gluconate,glutamic acid,NA,NA,fideo
+449,nizatidine,ethanol,NA,NA,fideo
+450,liotrix,iron,NA,NA,fideo

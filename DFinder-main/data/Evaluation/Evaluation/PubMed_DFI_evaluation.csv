@@ -1,0 +1,224 @@
+,Drug,Food Constituent,DDI2013,POMELO,FIDEO
+1,diclofenac,lithium,DDI2013,NA,NA
+2,phenobarbital,caffeine,DDI2013,NA,NA
+3,methotrexate,l-methionine,DDI2013,NA,fideo
+4,erythromycin,theophylline,DDI2013,NA,NA
+5,calcium,iron,DDI2013,NA,NA
+6,calcium,l-lysine,DDI2013,NA,NA
+7,propranolol,dopamine,DDI2013,NA,NA
+8,azithromycin,theophylline,DDI2013,NA,NA
+9,indomethacin,l-glutamine,DDI2013,NA,NA
+10,ibuprofen,lithium,DDI2013,NA,NA
+11,carbamazepine,lithium,DDI2013,NA,NA
+12,isoniazid,l-leucine,NA,pomelo,fideo
+13,isoniazid,l-proline,NA,pomelo,fideo
+14,isoniazid,l-glutamic acid,NA,pomelo,fideo
+15,isoniazid,l-histidine,NA,pomelo,fideo
+16,isoniazid,l-tryptophan,NA,pomelo,fideo
+17,isoniazid,l-cystine,NA,pomelo,fideo
+18,isoniazid,l-tyrosine,NA,pomelo,fideo
+19,isoniazid,l-isoleucine,NA,pomelo,fideo
+20,midazolam,calcium,NA,pomelo,fideo
+21,midazolam,l-ascorbic acid,NA,pomelo,fideo
+22,theophylline,sucrose,NA,pomelo,NA
+23,nilotinib,l-serine,NA,pomelo,fideo
+24,nilotinib,calcium,NA,pomelo,fideo
+25,nilotinib,l-leucine,NA,pomelo,fideo
+26,nilotinib,l-proline,NA,pomelo,fideo
+27,nilotinib,nitrogen,NA,pomelo,fideo
+28,nilotinib,d-glucose,NA,pomelo,fideo
+29,carbamazepine,l-isoleucine,NA,pomelo,NA
+30,carbamazepine,malic acid,NA,pomelo,fideo
+31,carbamazepine,l-proline,NA,pomelo,fideo
+32,carbamazepine,l-lysine,NA,pomelo,NA
+33,carbamazepine,oleic acid,NA,pomelo,fideo
+34,carbamazepine,saponins,NA,pomelo,NA
+35,carbamazepine,l-aspartic acid,NA,pomelo,fideo
+36,carbamazepine,l-serine,NA,pomelo,fideo
+37,warfarin,nitrogen,NA,pomelo,fideo
+38,warfarin,l-isoleucine,NA,pomelo,fideo
+39,warfarin,cyanidin,NA,pomelo,fideo
+40,warfarin,malic acid,NA,pomelo,NA
+41,warfarin,sucrose,NA,pomelo,fideo
+42,warfarin,l-glutamic acid,NA,pomelo,fideo
+43,warfarin,l-alanine,NA,pomelo,fideo
+44,warfarin,l-histidine,NA,pomelo,fideo
+45,atorvastatin,calcium,NA,pomelo,fideo
+46,ciprofloxacin,l-serine,NA,pomelo,fideo
+47,ciprofloxacin,malic acid,NA,pomelo,NA
+48,ciprofloxacin,l-lysine,NA,pomelo,fideo
+49,ciprofloxacin,2-oxopentanedioic acid,NA,pomelo,NA
+50,ciprofloxacin,proline,NA,pomelo,fideo
+51,ciprofloxacin,sulfide,NA,pomelo,fideo
+52,ciprofloxacin,oleic acid,NA,pomelo,fideo
+53,ciprofloxacin,glutamic acid,NA,pomelo,fideo
+54,tamoxifen,oleic acid,NA,pomelo,fideo
+55,tamoxifen,l-aspartic acid,NA,pomelo,NA
+56,tamoxifen,nitrogen,NA,pomelo,fideo
+57,tamoxifen,l-glutamic acid,NA,pomelo,NA
+58,metronidazole,ethanol,NA,NA,fideo
+59,isoniazid,sucrose,NA,NA,fideo
+60,isoniazid,nitrogen,NA,NA,fideo
+61,isoniazid,lactose,NA,NA,fideo
+62,diclofenac,phosphorus,NA,NA,fideo
+63,diclofenac,sodium,NA,NA,fideo
+64,diclofenac,ethanol,NA,NA,fideo
+65,phenobarbital,arabinose,NA,NA,fideo
+66,phenobarbital,potassium,NA,NA,fideo
+67,phenobarbital,lactose,NA,NA,fideo
+68,phenobarbital,phosphorus,NA,NA,fideo
+69,phenobarbital,oleic acid,NA,NA,fideo
+70,phenobarbital,"(r)-2,5,11-bisabolatriene",NA,NA,fideo
+71,phenobarbital,l-aspartic acid,NA,NA,fideo
+72,phenobarbital,l-tryptophan,NA,NA,fideo
+73,niacin,ethanol,NA,NA,fideo
+74,valproic acid,nitrogen,NA,NA,fideo
+75,valproic acid,malic acid,NA,NA,fideo
+76,valproic acid,l-aspartic acid,NA,NA,fideo
+77,valproic acid,potassium,NA,NA,fideo
+78,valproic acid,l-glutamic acid,NA,NA,fideo
+79,valproic acid,proline,NA,NA,fideo
+80,valproic acid,phosphate,NA,NA,fideo
+81,valproic acid,l-threonine,NA,NA,fideo
+82,valproic acid,arginine,NA,NA,fideo
+83,valproic acid,l-isoleucine,NA,NA,fideo
+84,valproic acid,arabinose,NA,NA,fideo
+85,valproic acid,lactose,NA,NA,fideo
+86,imatinib,nicotinic acid,NA,NA,fideo
+87,imatinib,sucrose,NA,NA,fideo
+88,imatinib,phosphorus,NA,NA,fideo
+89,imatinib,lactose,NA,NA,fideo
+90,imatinib,maltose,NA,NA,fideo
+91,imatinib,l-serine,NA,NA,fideo
+92,imatinib,oleic acid,NA,NA,fideo
+93,imatinib,l-tryptophan,NA,NA,fideo
+94,imatinib,l-proline,NA,NA,fideo
+95,rivaroxaban,nitrogen,NA,NA,fideo
+96,rivaroxaban,glycine,NA,NA,fideo
+97,rivaroxaban,sucrose,NA,NA,fideo
+98,rivaroxaban,l-methionine,NA,NA,fideo
+99,rivaroxaban,l-proline,NA,NA,fideo
+100,rivaroxaban,l-isoleucine,NA,NA,fideo
+101,rivaroxaban,l-glutamic acid,NA,NA,fideo
+102,methotrexate,glycine,NA,NA,fideo
+103,methotrexate,ethanol,NA,NA,fideo
+104,methotrexate,sulfide,NA,NA,fideo
+105,methotrexate,l-lysine,NA,NA,fideo
+106,methotrexate,l-isoleucine,NA,NA,fideo
+107,methotrexate,glutamic acid,NA,NA,fideo
+108,methotrexate,phosphorus,NA,NA,fideo
+109,linezolid,ethanol,NA,NA,fideo
+110,linezolid,l-leucine,NA,NA,fideo
+111,methadone,ethanol,NA,NA,fideo
+112,ritonavir,phosphorus,NA,NA,fideo
+113,ritonavir,cellulose,NA,NA,fideo
+114,ritonavir,oleic acid,NA,NA,fideo
+115,tetracycline,arginine,NA,NA,fideo
+116,tetracycline,phosphate,NA,NA,fideo
+117,tetracycline,phosphorus,NA,NA,fideo
+118,tetracycline,l-serine,NA,NA,fideo
+119,tetracycline,chlorine,NA,NA,fideo
+120,tetracycline,proline,NA,NA,fideo
+121,erythromycin,"(r)-2,5,11-bisabolatriene",NA,NA,fideo
+122,erythromycin,arabinose,NA,NA,fideo
+123,erythromycin,lactose,NA,NA,fideo
+124,erythromycin,nitrogen,NA,NA,fideo
+125,estradiol valerate,l-serine,NA,NA,fideo
+126,propranolol,phosphorus,NA,NA,fideo
+127,propranolol,sulfur,NA,NA,fideo
+128,midazolam,l-isoleucine,NA,NA,fideo
+129,acetylsalicylic acid,nitrogen,NA,NA,fideo
+130,acetylsalicylic acid,phosphorus,NA,NA,fideo
+131,acetylsalicylic acid,l-leucine,NA,NA,fideo
+132,acetylsalicylic acid,l-proline,NA,NA,fideo
+133,acetylsalicylic acid,glycine,NA,NA,fideo
+134,acetylsalicylic acid,sucrose,NA,NA,fideo
+135,acetylsalicylic acid,l-isoleucine,NA,NA,fideo
+136,acetylsalicylic acid,l-glutamic acid,NA,NA,fideo
+137,metoprolol,nitrogen,NA,NA,fideo
+138,metoprolol,lactose,NA,NA,fideo
+139,ifosfamide,ethanol,NA,NA,fideo
+140,ifosfamide,calcium,NA,NA,fideo
+141,ifosfamide,sucrose,NA,NA,fideo
+142,ifosfamide,l-ascorbic acid,NA,NA,fideo
+143,ifosfamide,l-serine,NA,NA,fideo
+144,prazosin,ethanol,NA,NA,fideo
+145,prazosin,lactose,NA,NA,fideo
+146,prazosin,phosphorus,NA,NA,fideo
+147,theophylline,ethanol,NA,NA,fideo
+148,tadalafil,nitrogen,NA,NA,fideo
+149,busulfan,sucrose,NA,NA,fideo
+150,busulfan,l-serine,NA,NA,fideo
+151,busulfan,nitrogen,NA,NA,fideo
+152,busulfan,l-proline,NA,NA,fideo
+153,busulfan,l-leucine,NA,NA,fideo
+154,rifampicin,nitrogen,NA,NA,fideo
+155,rifampicin,cellulose,NA,NA,fideo
+156,rifampicin,d-glucose,NA,NA,fideo
+157,rifampicin,ethanol,NA,NA,fideo
+158,rifampicin,arabinose,NA,NA,fideo
+159,paclitaxel,phosphorus,NA,NA,fideo
+160,paclitaxel,nitrogen,NA,NA,fideo
+161,paclitaxel,sucrose,NA,NA,fideo
+162,glipizide,l-methionine,NA,NA,fideo
+163,glipizide,oleic acid,NA,NA,fideo
+164,glipizide,l-alanine,NA,NA,fideo
+165,nilotinib,sucrose,NA,NA,fideo
+166,vinblastine,sucrose,NA,NA,fideo
+167,fluconazole,malic acid,NA,NA,fideo
+168,fluconazole,nitrogen,NA,NA,fideo
+169,fluconazole,phosphorus,NA,NA,fideo
+170,atropine,ethanol,NA,NA,fideo
+171,sufentanil,l-leucine,NA,NA,fideo
+172,sufentanil,ethanol,NA,NA,fideo
+173,indomethacin,ethanol,NA,NA,fideo
+174,ibuprofen,l-lysine,NA,NA,fideo
+175,ibuprofen,l-glutamic acid,NA,NA,fideo
+176,carbamazepine,sucrose,NA,NA,fideo
+177,carbamazepine,nitrate,NA,NA,fideo
+178,carbamazepine,nicotinic acid,NA,NA,fideo
+179,fluorouracil,l-methionine,NA,NA,fideo
+180,fluorouracil,phosphorus,NA,NA,fideo
+181,vincristine,l-serine,NA,NA,fideo
+182,vincristine,nitrogen,NA,NA,fideo
+183,vincristine,calcium,NA,NA,fideo
+184,bortezomib,nitrogen,NA,NA,fideo
+185,bortezomib,sucrose,NA,NA,fideo
+186,bortezomib,l-serine,NA,NA,fideo
+187,bortezomib,phosphorus,NA,NA,fideo
+188,atorvastatin,sucrose,NA,NA,fideo
+189,ciprofloxacin,sucrose,NA,NA,fideo
+190,cyclosporine,l-proline,NA,NA,fideo
+191,cyclosporine,l-isoleucine,NA,NA,fideo
+192,cyclosporine,nitrogen,NA,NA,fideo
+193,cyclosporine,l-glutamic acid,NA,NA,fideo
+194,cyclosporine,sucrose,NA,NA,fideo
+195,cyclosporine,l-lysine,NA,NA,fideo
+196,cyclosporine,quercetin,NA,NA,fideo
+197,cyclosporine,iron,NA,NA,fideo
+198,omeprazole,l-isoleucine,NA,NA,fideo
+199,omeprazole,l-proline,NA,NA,fideo
+200,omeprazole,l-glutamic acid,NA,NA,fideo
+201,omeprazole,l-serine,NA,NA,fideo
+202,buprenorphine,nitrogen,NA,NA,fideo
+203,buprenorphine,sucrose,NA,NA,fideo
+204,buprenorphine,l-ascorbic acid,NA,NA,fideo
+205,buprenorphine,calcium,NA,NA,fideo
+206,norgestrel,arginine,NA,NA,fideo
+207,norgestrel,l-serine,NA,NA,fideo
+208,norgestrel,sucrose,NA,NA,fideo
+209,quinidine,nitrogen,NA,NA,fideo
+210,quinidine,curcumin,NA,NA,fideo
+211,phenytoin,phosphorus,NA,NA,fideo
+212,phenytoin,ethanol,NA,NA,fideo
+213,phenytoin,oleic acid,NA,NA,fideo
+214,phenytoin,lactose,NA,NA,fideo
+215,phenytoin,nitrogen,NA,NA,fideo
+216,dextran,cyanidin,NA,NA,fideo
+217,dextran,l-isoleucine,NA,NA,fideo
+218,dextran,sucrose,NA,NA,fideo
+219,dextran,phosphorus,NA,NA,fideo
+220,dextran,l-lysine,NA,NA,fideo
+221,epoprostenol,nitrogen,NA,NA,fideo
+222,epoprostenol,cyanidin,NA,NA,fideo
+223,epoprostenol,phosphorus,NA,NA,fideo
